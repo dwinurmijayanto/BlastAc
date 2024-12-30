@@ -1,0 +1,5 @@
+{
+  "default": "Selamat datang, @user! Semoga betah di @group ini.",
+  "group_id_1": "Halo @user, selamat bergabung di grup [Nama Grup]! Jangan lupa baca aturan ya.",
+  "group_id_2": "Welcome to [Nama Grup], @user! Enjoy your stay."
+}

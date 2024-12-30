@@ -1,0 +1,112 @@
+{
+  "ES6100": {
+    "status": "PROSES",
+    "items": [
+      "bayam - 2",
+      "terong - 3",
+      "kopi - 2"
+    ]
+  },
+  "MR8040": {
+    "status": "PROSES",
+    "items": [
+      "bayam - 2",
+      "terong - 3",
+      "kopi - 2"
+    ]
+  },
+  "FV4471": {
+    "status": "PROSES",
+    "items": [
+      "bayam - 2",
+      "terong - 3",
+      "kopi - 2"
+    ]
+  },
+  "ZG8832": {
+    "status": "PROSES",
+    "items": [
+      "bayam - 2",
+      "terong - 3"
+    ]
+  },
+  "WF5071": {
+    "status": "SELESAI",
+    "items": [
+      "bayam - 2",
+      "terong - 3"
+    ]
+  },
+  "AX9390": {
+    "status": "PROSES",
+    "items": [
+      "bayam - 2",
+      "terong - 3",
+      ""
+    ]
+  },
+  "MK7508": {
+    "status": "SELESAI",
+    "items": [
+      "bayam - 2",
+      "terong - 3"
+    ]
+  },
+  "HN5296": {
+    "status": "SELESAI",
+    "items": [
+      "bayam - 2",
+      "terong - 3",
+      "kopi - 2"
+    ]
+  },
+  "TT3932": {
+    "status": "KIRIM",
+    "items": [
+      "bayam - 2",
+      "terong - 3",
+      "kopi - 2"
+    ]
+  },
+  "LT8573": {
+    "status": "SELESAI",
+    "items": [
+      "kue bulan bangyak - 2",
+      "kue cucur -1",
+      "Lola - 2"
+    ],
+    "keterangan": "nunggu kurir"
+  },
+  "AB8579": {
+    "status": "KIRIM",
+    "items": [
+      "kopi - 2",
+      "susu - 3"
+    ],
+    "keterangan": "sudah dilokasi"
+  },
+  "XR6834": {
+    "status": "PROSES",
+    "items": [
+      "BAYAM - 3"
+    ]
+  },
+  "DW6090": {
+    "status": "PROSES",
+    "items": [
+      "Jas Hujan - 2"
+    ]
+  },
+  "QY9995": {
+    "status": "PROSES",
+    "items": [
+      "Jas Hujan -"
+    ]
+  },
+  "MA9779": {
+    "status": "PROSES",
+    "items": [
+      "Jas Hujan - 3"
+    ]
+  }
+}

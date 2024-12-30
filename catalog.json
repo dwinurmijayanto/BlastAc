@@ -1,0 +1,22 @@
+{
+  "terong": {
+    "harga": 7000,
+    "deskripsi": "Sayuran ungu dengan tekstur lembut."
+  },
+  "kopi": {
+    "harga": 15000,
+    "deskripsi": "Kopi bubuk berkualitas tinggi."
+  },
+  "susu": {
+    "harga": 12000,
+    "deskripsi": "Susu segar dengan rasa yang lezat."
+  },
+  "nutri": {
+    "harga": 10000,
+    "deskripsi": "Produk nutrisi untuk kesehatan."
+  },
+  "bayam": {
+    "harga": 3000,
+    "deskripsi": "Sayuran hijau segar 1 Kg"
+  }
+}
